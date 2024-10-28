@@ -1,4 +1,4 @@
-# 📊 Medical Cost Insurance Prediction
+# 📊 Medical Insurance Prediction
 
 **Author:** [Syed Muhammad Ebad](https://www.kaggle.com/syedmuhammadebad)  
 **Date:** 28-Oct-2024  
